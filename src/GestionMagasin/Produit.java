@@ -1,4 +1,4 @@
-package tn.tuniprob.gestionmagasin;
+package GestionMagasin;
 
 import java.util.Date;
 
